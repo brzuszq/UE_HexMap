@@ -67,7 +67,7 @@ Build/*/**
 Saved/*
 
 # Whitelist SaveGames
-!Saved/SaveGames/**
+!Saved/SaveGames/
 
 # Compiled source files for the engine to use
 Intermediate/*
